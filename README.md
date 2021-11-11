@@ -2,6 +2,8 @@
 
 # About me
 
+<img align="right" alt="" height="350" src="https://github.com/MontoyaMontes/MontoyaMontes/blob/main/code-g61fe1666f_1280_rev.png?" />
+
 * I'm a mexican computer science student.
 * I love to learn about everything and teach.
 * I'm learning about web development, software enginering and frontend/backend.
@@ -39,39 +41,42 @@
 ## GitHub Stats
 
 <a href="https://github.com/MontoyaMontes/MontoyaMontes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MontoyaMontes&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="MontoyaMontes's GitHub Stats" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MontoyaMontes&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="MontoyaMontes's GitHub Stats" />
+</a> 
 
 <a href="https://github.com/MontoyaMontes/MontoyaMontes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MontoyaMontes&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="MontoyaMontes's GitHub Stats" />
-</a> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MontoyaMontes&hide=c%2B%2B,c,matlab,assembly&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="MontoyaMontes's GitHub Stats" />
+</a>
 
 
 ## 🗂️ Some projects
 
 <a href="https://github.com/MontoyaMontes/Herramientas-TeoriaNumeros">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MontoyaMontes&repo=Herramientas-TeoriaNumeros&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="---" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MontoyaMontes&repo=Herramientas-TeoriaNumeros&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="---" />
 </a>
 
+<!--
 <a href="https://github.com/MontoyaMontes/Proyecto2-TN-RSA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MontoyaMontes&repo=Proyecto2-TN-RSA&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="---" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MontoyaMontes&repo=Proyecto2-TN-RSA&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="---" />
 </a>
-
+-->
 <a href="https://github.com/MontoyaMontes/isPrime">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MontoyaMontes&repo=isPrime&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="---" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MontoyaMontes&repo=isPrime&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="---" />
 </a>
 
 
 ## 👨‍💻 Conect with me!
 
+<a href="https://soundcloud.com/bulls-hitsb">
+  <img align="left" alt="Steam" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
+</a>
+
 <a href="https://steamcommunity.com/id/ZomCrash">
-  <img align="left" alt="Steam" width="20%" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  <img align="left" alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </a>
 
 <a href="https://t.me/MontoyaMontes">
-<img align="left" alt="Telegram" width="20%" src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram" />
+<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram" />
 </a>
 
-<a href="https://soundcloud.com/bulls-hitsb">
-  <img align="left" alt="Steam" width="20%" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
-</a>
+
