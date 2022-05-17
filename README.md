@@ -16,6 +16,29 @@
 
 ## 🔧 Knowladge
 
+### certificates
+
+<a href="https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-PedroMontoyaMontes-851869.pdf">
+ VMEdu Inc.
+  <img align="left" alt="Scrum Fundamentals Certified (SFC)" src=""/>
+</a>  
+<br>
+<a href="https://www.coursera.org/account/accomplishments/certificate/5TJUNV2NAQ6J">
+ Coursera
+  <img align="left" alt="Getting Started with Go" src=""/>
+</a>
+ <br>
+<a href="https://www.coursera.org/account/accomplishments/certificate/4QMQ8L3VBF84">
+ Coursera
+  <img align="left" alt="Functions, Methods, and Interfaces in Go" src=""/>
+</a>
+<br>
+<a href="https://www.coursera.org/account/accomplishments/certificate/BX2HH75ZMPUL">
+ Coursera
+  <img align="left" alt="Front-End Web UI Frameworks and Tools: Bootstrap 4" src=""/>
+</a>
+
+
 ### OS
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 
@@ -27,6 +50,7 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+![](https://img.shields.io/badge/GO-ED8B00?style=for-the-badge&logo=go&logoColor=white)
 <!--https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white-->
 
 ### Tools
