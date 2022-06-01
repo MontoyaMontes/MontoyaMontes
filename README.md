@@ -5,8 +5,9 @@
 <img align="right" alt="" height="350" src="https://github.com/MontoyaMontes/MontoyaMontes/blob/main/code-g61fe1666f_1280_rev.png?" />
 
 * I'm a mexican computer science student.
+* Currently working full time as backEnd dev at cvjobs.
 * I love to learn about everything and teach.
-* I'm learning about web development, software enginering and frontend/backend.
+* I'm learning about UX by Google.
 * Spending freetime playing games, watching series and learning.
 
 ## 📝 Blogs
@@ -53,9 +54,14 @@
 ![](https://img.shields.io/badge/GO-ED8B00?style=for-the-badge&logo=go&logoColor=white)
 <!--https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white-->
 
-### Tools
-![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Frameworks and More
+
+![](https://badgen.net/badge/icon/git?icon=git&label)
+![](https://badgen.net/badge/icon/github?icon=github&label)
+![](https://badgen.net/badge/icon/npm?icon=npm&label)
+![](https://badgen.net/badge/icon/terminal?icon=terminal&label)
+![](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)
+
 
 ### Top 3 IDE's
 ![](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
@@ -65,18 +71,18 @@
 ## GitHub Stats
 
 <a href="https://github.com/MontoyaMontes/MontoyaMontes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MontoyaMontes&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="MontoyaMontes's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MontoyaMontes&show_icons=true&theme=radical" alt="MontoyaMontes's GitHub Stats" />
 </a> 
 
 <a href="https://github.com/MontoyaMontes/MontoyaMontes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MontoyaMontes&hide=c%2B%2B,c,matlab,assembly&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="MontoyaMontes's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MontoyaMontes&hide=c%2B%2B,c,matlab,assembly&layout=compact&show_icons=true&theme=radical" alt="MontoyaMontes's GitHub Stats" />
 </a>
 
 
 ## 🗂️ Some projects
 
 <a href="https://github.com/MontoyaMontes/Herramientas-TeoriaNumeros">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MontoyaMontes&repo=Herramientas-TeoriaNumeros&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="---" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MontoyaMontes&repo=Herramientas-TeoriaNumeros&show_icons=true&show_icons=true&theme=radical" alt="---" />
 </a>
 
 <!--
@@ -85,7 +91,7 @@
 </a>
 -->
 <a href="https://github.com/MontoyaMontes/isPrime">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MontoyaMontes&repo=isPrime&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="---" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MontoyaMontes&repo=isPrime&show_icons=true&show_icons=true&theme=radical" alt="---" />
 </a>
 
 
