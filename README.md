@@ -5,9 +5,9 @@
 <img align="right" alt="" height="350" src="https://github.com/MontoyaMontes/MontoyaMontes/blob/main/code-g61fe1666f_1280_rev.png?" />
 
 * I'm a mexican computer science student.
-* Currently working full time as backEnd dev at cvjobs.
+* Currently working full time as frontend dev at cvjobs.
 * I love to learn about everything and teach.
-* I'm learning about UX by Google.
+* I know about UX and Project Managment certified by Google.
 * Spending freetime playing games, watching series and learning.
 
 ## 📝 Blogs
