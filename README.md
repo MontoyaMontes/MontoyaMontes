@@ -4,7 +4,7 @@
 
 <img align="right" alt="" height="350" src="https://github.com/MontoyaMontes/MontoyaMontes/blob/main/code-g61fe1666f_1280_rev.png?" />
 
-* I'm a mexican computer science student.
+* I'm a mexican computer scientist.
 * Currently working full time as Software Engineer FrontEnd at BBVA.
 * I love to learn about everything and teach.
 * I know about UX and Project Managment certified by Google.
