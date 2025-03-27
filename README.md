@@ -12,9 +12,6 @@
 
 ## 📝 Blogs
 
-- Personal website: https://montoyamontes.github.io/personal-website/
-- Personal blog (WIP): https://montoyamontes.github.io/blog/
-
 ## 🔧 Knowladge
 
 ### certificates
